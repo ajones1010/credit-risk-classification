@@ -3,6 +3,7 @@ Module 20 Challenge
 
 Resources: 
 Xpert Learning Assistant
+
 Assistance with Confusion Matrix from Amanda Lor
 
 
